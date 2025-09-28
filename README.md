@@ -9,7 +9,7 @@ O Sale Hunter é um projeto que tem como objetivo raspar os dados das promoçõe
 **``Resultados esperados``**
 
 ✅ • Obtenção de uma lista organizada com os jogos em promoção.<br>
-✅ • Informações como: título do jogo, preço original, preço com desconto, percentual de desconto e link da página.<br>
+✅ • Informações como: título do produto, preço original e preço com desconto.<br>
 ✅ • Criação de uma base de dados para futuras análises, comparações ou alertas de preço.
 
 ``5W1H``
@@ -27,6 +27,6 @@ Where (Onde?)<br>
 Em Windows e Linux
 
 How (Como funciona?)<br>
-O Código vai acessar o site da pichau diretamente na página de produtos em promoção, e fazer uma raspagem das informações mais importantes do produtos, como descontos, nome e periféricos.
+O Código vai acessar o site da Pichau diretamente na página de produtos em promoção, e fazer uma raspagem das informações mais importantes do produtos, como descontos, nome e periféricos.
 
 Integrantes: Eduarda Alencar e Davi Lucas
