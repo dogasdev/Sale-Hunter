@@ -24,6 +24,9 @@ Davi Lucas e Eduarda Alencar
 Where (Onde?)<br>
 Em Windows e Linux
 
+When (Quando?)<br>
+Esse projeto foi desenvolvido no domingo, e será apresentado dia 01/10
+
 How (Como funciona?)<br>
 O Código vai acessar o site da Pichau diretamente na página de produtos em promoção, e fazer uma raspagem das informações mais importantes do produtos, como descontos, nome e periféricos.
 
