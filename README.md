@@ -16,7 +16,7 @@ What (O Que é?)<br>
 O Sale Hunter é um projeto que tem como objetivo raspar os dados das promoções mais recentes da Pichau, permitindo organizar e analisar informações sobre nomes, preços originais e descontos de peças, computadores, periféricos.
 
 Why (Por que?)<br>
-Praticar automação de coleta de dados com Python, manipulação com Pandas e organização em um formato mais fácil de se consultar.
+Praticar automação de coleta de dados com Python, manipulação com Pandas e organização utilizando os dados da Pichau
 
 Who (Quem participa?)<br>
 Davi Lucas e Eduarda Alencar
