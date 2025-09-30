@@ -1,7 +1,5 @@
 # PROJETO: Sale Hunter
 
-O Sale Hunter é um projeto que tem como objetivo raspar os dados das promoções mais recentes da Pichau, permitindo organizar e analisar informações sobre descontos de peças, computadores, periféricos.
-
 **``Ferramentas Obrigatórias``**<br>
 🔍Selenium: para realizar a raspagem de dados da página da Pichau.<br>
 📊Pandas: Para estruturar e analisar os dados coletados, possibilitando a exportação em diferentes formatos (CSV)
