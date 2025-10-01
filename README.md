@@ -19,15 +19,15 @@ O Sale Hunter é um projeto que tem como objetivo raspar os dados das promoçõe
 Praticar automação de coleta de dados com Python, manipulação com Pandas e organização utilizando os dados da Pichau
 
 **Who (Quem participa?)**<br>
-Davi Lucas e Eduarda Alencar
+Desenvolvedores iniciantes. Que estão dispostos a aprender novas coisas. 
 
 **Where (Onde?)**<br>
-Em Windows e Linux
+o Programa pode ser executado em Windows e Linux. Ambos os resultados ficarão disponíveis em um arquivo ``.csv``
 
 **When (Quando?)**<br>
-Esse projeto foi desenvolvido no domingo, e será apresentado dia 01/10
+Utilizar quando for necessário coletar dados espécificos e públicos de forma automatizada e organizada.
 
 **How (Como funciona?)**<br>
-O Código vai acessar o site da Pichau diretamente na página de produtos em promoção, e fazer uma raspagem das informações mais importantes do produtos, como descontos, nome e periféricos.
+O Código vai acessar o site da Pichau diretamente na página de produtos em promoção, e fazer uma raspagem das informações mais importantes do produtos, como descontos, nome e periféricos. Essas informações serão tratadas pelo Pandas, convertido para um arquivo .csv. 
 
 Integrantes: Eduarda Alencar e Davi Lucas
