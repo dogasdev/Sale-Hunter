@@ -8,7 +8,7 @@
 
 ✅ • Obtenção de uma lista organizada com os jogos em promoção.<br>
 ✅ • Informações como: título do produto, preço original e preço com desconto.<br>
-✅ • Criação de uma base de dados para futuras análises, comparações ou alertas de preço.
+✅ • Criação de uma base de dados para futuras análises ou comparações.
 
 ``5W1H``
 
