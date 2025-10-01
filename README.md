@@ -26,6 +26,7 @@ o Programa pode ser executado em Windows e Linux. Ambos os resultados ficarão d
 
 **When (Quando?)**<br>
 Utilizar quando for necessário coletar dados espécificos e públicos de forma automatizada e organizada.
+Organizar os produtos em promoções mais recentes da Pichau.
 
 **How (Como funciona?)**<br>
 O Código vai acessar o site da Pichau diretamente na página de produtos em promoção, e fazer uma raspagem das informações mais importantes do produtos, como descontos, nome e periféricos. Essas informações serão tratadas pelo Pandas, convertido para um arquivo .csv. 
